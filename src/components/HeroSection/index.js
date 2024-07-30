@@ -187,6 +187,7 @@ const ResumeButton = styled.a`
         font-size: 18px;
         font-size: 15px;
         max-width: 170px;
+        margin-bottom: 30px;
     } 
 
 `;
