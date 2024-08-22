@@ -24,3 +24,5 @@ export default {
       xl: 'screen and (max-width: 1280px)'
     },
   }
+
+  
