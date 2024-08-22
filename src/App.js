@@ -1,6 +1,6 @@
 import './App.css';
 import styled, { ThemeProvider } from 'styled-components';
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { darkTheme, lightTheme } from './utils/Themes.js'
 import Navbar from './components/Navbar';
 import HeroSection from "./components/HeroSection";
@@ -28,7 +28,7 @@ const Wrapper = styled.div`
 
 
 function App() {
-  const [darkMode, setDarkMode] = useState(true);
+  const [darkMode] = useState(true);
   const [openModal, setOpenModal] = useState({ state: false, project: null });
   console.log(openModal)
   return (
