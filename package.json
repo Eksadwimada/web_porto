@@ -2,7 +2,7 @@
   "name": "web_me",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Eksadwimada.github.io/web_me",
+  "homepage": ".",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@emotion/react": "^11.11.0",
