@@ -50,9 +50,9 @@ const Card = styled.div`
         transform: translateY(-5px);
     }
     @media only screen and (max-width: 768px){
-        padding: 10px;
+        padding: 16px;
         gap: 8px;
-        width: 300px;
+        width: 320px;
     }
 
     &:hover ${Document}{
@@ -138,7 +138,7 @@ const Skill = styled.div`
     font-weight: 400;
     color: ${({ theme }) => theme.text_primary + 99};
     @media only screen and (max-width: 768px){
-        font-size: 18px;
+        font-size: 12px;
     }
 `
 
