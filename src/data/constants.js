@@ -268,5 +268,18 @@ export const Bio = {
       github: "https://github.com/Eksadwimada/",
       webapp: "https://github.com/Eksadwimada/",
     },
+    {
+      id: 6,
+      title: "UI/UX Design Kirex App (RPX One Stop Logistics",
+      date: "Sep 2024",
+      description:
+        "A personal portfolio website is an online platform used to showcase an individual's work, skills, experience and achievements in various fields, especially in a professional and creative context.",
+      image:
+        "https://firebasestorage.googleapis.com/v0/b/data-f7b0e.appspot.com/o/KirexMock.png?alt=media&token=078959db-8ba9-4555-8845-c710792cc535",
+      tags: ["Prototyping", "Design System", "Figma"],
+      category: "uiux design",
+      github: "https://www.figma.com/design/W4NNR6JCQ3mV2JqEmMm5c2/New-Kirex?node-id=2-2&t=z9zhevYv26HWyQ6S-1",
+      webapp: "https://www.figma.com/proto/W4NNR6JCQ3mV2JqEmMm5c2/New-Kirex?node-id=302-1566&node-type=canvas&t=QYCDb8iq1ieJBuMx-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=302%3A1323",
+    },
   ];
   
