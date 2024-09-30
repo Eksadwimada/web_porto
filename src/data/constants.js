@@ -270,10 +270,10 @@ export const Bio = {
     },
     {
       id: 6,
-      title: "UI/UX Design Kirex App (RPX One Stop Logistics",
+      title: "UI/UX Design Kirex App (RPX One Stop Logistics)",
       date: "Sep 2024",
       description:
-        "A personal portfolio website is an online platform used to showcase an individual's work, skills, experience and achievements in various fields, especially in a professional and creative context.",
+        "RPX One Stop Logistics is a company operating in the international logistics sector, providing integrated shipping solutions. This mobile application is specifically designed to support express delivery services, ensuring speed, convenience and efficiency in every delivery.",
       image:
         "https://firebasestorage.googleapis.com/v0/b/data-f7b0e.appspot.com/o/KirexMock.png?alt=media&token=078959db-8ba9-4555-8845-c710792cc535",
       tags: ["Prototyping", "Design System", "Figma"],
