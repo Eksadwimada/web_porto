@@ -281,5 +281,18 @@ export const Bio = {
       github: "https://www.figma.com/design/W4NNR6JCQ3mV2JqEmMm5c2/New-Kirex?node-id=2-2&t=z9zhevYv26HWyQ6S-1",
       webapp: "https://www.figma.com/proto/W4NNR6JCQ3mV2JqEmMm5c2/New-Kirex?node-id=302-1566&node-type=canvas&t=QYCDb8iq1ieJBuMx-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=302%3A1323",
     },
+    {
+      id: 7,
+      title: "UI/UX Design FoodHub App",
+      date: "Sep 2024",
+      description:
+        "RPX One Stop Logistics is a company operating in the international logistics sector, providing integrated shipping solutions. This mobile application is specifically designed to support express delivery services, ensuring speed, convenience and efficiency in every delivery.",
+      image:
+        "https://firebasestorage.googleapis.com/v0/b/data-f7b0e.appspot.com/o/KirexMock.png?alt=media&token=078959db-8ba9-4555-8845-c710792cc535",
+      tags: ["Prototyping", "Design System", "Figma"],
+      category: "uiux design",
+      github: "https://www.figma.com/design/W4NNR6JCQ3mV2JqEmMm5c2/New-Kirex?node-id=2-2&t=z9zhevYv26HWyQ6S-1",
+      webapp: "https://www.figma.com/proto/W4NNR6JCQ3mV2JqEmMm5c2/New-Kirex?node-id=302-1566&node-type=canvas&t=QYCDb8iq1ieJBuMx-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=302%3A1323",
+    },
   ];
   
